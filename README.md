@@ -2,6 +2,7 @@
 
 ## 준비사항
 - intelliJ
+- Junit 4
 
 ## 이진검색
 
